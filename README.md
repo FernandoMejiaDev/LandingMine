@@ -82,7 +82,7 @@ Cada landing tiene su estructura específica para facilitar su mantenimiento y e
 
 Todas las landing pages del proyecto adoptan una estructura modular y organizada, lo que facilita su mantenimiento y escalabilidad. Cada landing sigue esta estructura de carpetas:
 
-![imgN5](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadme5.png)
+![imgN5](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadmeN5.png)
 
    ```
 /LandingPage
@@ -146,6 +146,7 @@ Estas propiedades permiten que el menú:
 - **✅ Se integre de forma fluida con la experiencia del usuario.**
 
 Gracias a esta estructura, cada landing page tiene su propio estilo sin perder consistencia en la navegación y funcionalidad.
+
 
 
 
