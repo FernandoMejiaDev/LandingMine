@@ -1,4 +1,4 @@
-![LandingMineLogo](https://github.com/FernadoCodeDev/LandingMine/blob/main/ImageReadme/LandingMineLogo.webp)
+![LandingMineLogo](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/LandingMineLogo.webp)
 
 #  ⛏ **LandingMine**
 
@@ -37,7 +37,7 @@ Al ejecutar el proyecto, verás la página principal de LandingMine, donde encon
 - 🎯 Diseños modernos y optimizados con Tailwind CSS.
 - ⚡ Desarrolladas con React, lo que permite componentes reutilizables y mejor mantenimiento del código.
   
-![imgN1](https://github.com/FernadoCodeDev/LandingMine/blob/main/ImageReadme/imgReadmeN1.webp)
+![imgN1](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadmeN1.webp)
 
 ## 🎨 Diseño y Temáticas de las Landing Pages  
 
@@ -60,8 +60,8 @@ Por ejemplo:
 
 Cada una de estas páginas permite experimentar con distintos enfoques de diseño y **crear interfaces Front-End adaptadas a diversas necesidades**.  
 
-![imgN2](https://github.com/FernadoCodeDev/LandingMine/blob/main/ImageReadme/imgReadmeN2.webp)
-![imgN3](https://github.com/FernadoCodeDev/LandingMine/blob/main/ImageReadme/imgReadmeN3.webp)
+![imgN2](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadmeN2.webp)
+![imgN3](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadmeN3.webp)
 
 ## 🗂 Organización del Proyecto  
 
@@ -71,7 +71,7 @@ Para mantener un código limpio y estructurado, cada landing page en **LandingMi
 
 Dentro de **src**, encontrarás la carpeta **LandingPage,** donde cada landing está organizada en su propia carpeta. Además, hay carpetas de **componentes globales** y **hooks**:  
 
-![imgN4](https://github.com/FernadoCodeDev/LandingMine/blob/main/ImageReadme/imgReadmeN4.png)
+![imgN4](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadmeN4.webp)
 
 - **LandingPage/** → Contiene todas las landing pages, cada una en su propia carpeta.  
 - **GlobalComponents/** → Contiene componentes reutilizables como `DarkMode` y `MenuMovile`.  
@@ -82,7 +82,7 @@ Cada landing tiene su estructura específica para facilitar su mantenimiento y e
 
 Todas las landing pages del proyecto adoptan una estructura modular y organizada, lo que facilita su mantenimiento y escalabilidad. Cada landing sigue esta estructura de carpetas:
 
-![imgN5](https://github.com/FernadoCodeDev/LandingMine/blob/main/ImageReadme/imgReadmeN5.png)
+![imgN5](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadmeN5.webp)
 
    ```
 /LandingPage
@@ -116,7 +116,7 @@ El archivo `App.js` es el que maneja la navegación entre las landing pages.
 - **Cada landing está registrada con una ruta usando su nombre en la URL.**
 - **Las rutas están organizadas con comentarios para facilitar su lectura.**
 
-![imgN7](https://github.com/FernadoCodeDev/LandingMine/blob/main/ImageReadme/imgReadmeN6.png)
+![imgN7](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadmeN6.webp)
 
 
 ### 🌍 Componentes Globales
@@ -127,18 +127,18 @@ Estos componentes tienen una lógica simple pero útil para mejorar la experienc
 ### 🔆 DarkMode.jsx
 Este archivo contiene la lógica que permite cambiar entre el modo claro y oscuro en las landing pages. Con este componente, los usuarios pueden alternar entre ambos modos sin afectar la estructura del sitio.
 
-![imgN8](https://github.com/FernadoCodeDev/LandingMine/blob/main/ImageReadme/imgReadmeN7.png)
+![imgN8](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadmeN7.webp)
 
 ### 📱 MobileMenu.jsx
 Este componente maneja el menú móvil, que aparece en pantallas menores a md (768px en Tailwind CSS). Sin embargo, dado que cada landing page tiene un diseño y una combinación de colores distinta, no se puede definir un color único para todos los menús.
 
-![imgN11](https://github.com/FernadoCodeDev/LandingMine/blob/main/ImageReadme/imgReadmeN8.png)
+![imgN11](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadmeN8.webp)
 
 Para solucionar esto, MobileMenu.jsx permite personalizar ciertos estilos a través de propiedades dinámicas. Cada landing puede ajustar estos valores para que el menú encaje perfectamente con su diseño.
 
 Por ejemplo, en la landing **CampingNight**, se llama al componente **MobileMenu** con propiedades específicas para modificar colores y efectos:
 
-![imgN12](https://github.com/FernadoCodeDev/LandingMine/blob/main/ImageReadme/imgReadmeN9.png)
+![imgN12](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/imgReadmeN9.webp)
 
 Estas propiedades permiten que el menú:
 - **✅ Tenga colores adaptados al diseño de cada landing.**
@@ -146,6 +146,7 @@ Estas propiedades permiten que el menú:
 - **✅ Se integre de forma fluida con la experiencia del usuario.**
 
 Gracias a esta estructura, cada landing page tiene su propio estilo sin perder consistencia en la navegación y funcionalidad.
+
 
 
 
