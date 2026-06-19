@@ -52,10 +52,10 @@ Cada landing tiene su propio diseño y características especiales:
 
 Por ejemplo:  
 
-### DreamHouse (Landing N°7) - *Inmobiliaria 
+### DreamHouse (Landing N°7) - Inmobiliaria 
  Su diseño está inspirado en el sector inmobiliario, con un header atractivo y una paleta de colores sobria y elegante, con un paginación.  
 
-### CastorBook (Landing N°17) - 📖 Librería y editorial 
+### CastorBook (Landing N°17) - Librería y editorial 
  Esta landing incluye un efecto **hover** en los libros, simulando un estante donde al pasar el mouse se revela el contenido de cada uno y en cada tarjeta de libro abre un modal con la descripción de dicho libro.  
 
 Cada una de estas páginas permite experimentar con distintos enfoques de diseño y **crear interfaces Front-End adaptadas a diversas necesidades**.  
