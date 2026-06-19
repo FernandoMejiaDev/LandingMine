@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> Este repositorio contiene la primera versión de **LandingMine**, creada como práctica para aprender **Tailwind CSS** y mejorar habilidades de **frontend con React.**  
+> 
+> Incluye **19 landing** pages con diferentes temáticas, pero también refleja decisiones de arquitectura y enfoque que con el tiempo quedaron limitadas.  
+> 
+> Este proyecto se mantiene como referencia del progreso.  
+> 
+> Actualmente, existe una **versión remasterizada** con mejor arquitectura, un stack más sólido y un enfoque más claro en la calidad de cada landing:  
+> *[LandingMine-remastered](https://github.com/FernandoMejiaDev/LandingMine-remastered)*
+
 ![LandingMineLogo](https://github.com/FernandoMejiaDev/LandingMine/blob/main/ImageReadme/LandingMineLogo.webp)
 
 # **LandingMine**
